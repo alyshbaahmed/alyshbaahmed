@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alyshbaahmed
-- 👀 I’m interested in technology, painting, and curling up with a good book. 
-- 🌱 I’m currently learning game development!! 
-- 💞️ I’m looking to collaborate on programming-related projects, specifically women+non-binary or environment 
-- 📫 Feel free to reach me on Linkedin @Alyshba Ahmed.
+- 🌱 Currently a junior at Wellesley College!
+- 💞️ I’m looking to collaborate on Python, Java, or Swift projects.
+- 👀 I’m interested in back-end development, weightlifting, and outer space 🪐
+- 📫 Feel free to reach me on [Linkedin]([url](https://www.linkedin.com/in/alyshba-ahmed/)).
 
 <!---
 alyshbaahmed/alyshbaahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
