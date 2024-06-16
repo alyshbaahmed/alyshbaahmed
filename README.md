@@ -1,7 +1,7 @@
 - 🦋 Hi, I’m @alyshbaahmed
 - 🚾 Currently a junior at Wellesley College!
-- 👥 I’m looking to collaborate on Python, Java, or Swift projects.
-- 🩵 I’m interested in back-end development, weightlifting, and outer space 🪐
+- 👥 I’d love to collaborate on Python, Java, or Swift projects.
+- 🩵 I’m interested in back-end development, blockchain, and outer space 🪐
 - 📫 Feel free to reach me on [Linkedin]([url](https://www.linkedin.com/in/alyshba-ahmed/)).
 
 <!---
