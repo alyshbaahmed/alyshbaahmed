@@ -1,7 +1,7 @@
 - 🦋 Hi, I’m @alyshbaahmed
 - 🚾 Currently a junior at Wellesley College studying computer science and philosophy!
 - 👥 I’d love to collaborate on Python, Java, and Swift.
-- 🩵 I’m interested in full-stack development and blockchain 🪐
+- 🩵 I’m interested in full-stack development, data, and blockchain 🪐
 - 🛄 My projects have mainly been in Python and UIUX.
 
 <!---
